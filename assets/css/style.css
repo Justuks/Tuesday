@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Coustard&family=Lato:wght@300&family=Lexend+Deca:wght@100;400&family=Roboto+Mono&family=Share&family=Source+Serif+Pro&family=Work+Sans&display=swap');
+/*apply general styling below here*/
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
